@@ -13,6 +13,8 @@
 ![](demo.png)
 ## Overview
 
+Get dataset here [dataset](https://github.com/Christiantyemele/malaria-model-dataset.git) and add it to project root at `/data` if you want to run the training.
+
 This model predicts:
 
 - **Infected vs Uninfected** (gating)

@@ -9,3 +9,4 @@ malaria-model/
 /data/Uninfected
 inference-ui/target/
 inference-ui/dist/
+/data
