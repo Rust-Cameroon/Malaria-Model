@@ -15,7 +15,7 @@
 
 Get dataset here [dataset](https://github.com/Christiantyemele/malaria-model-dataset.git) and add it to project root at `/data` if you want to run the training.
 
-This model predicts:
+This model predicts: 
 
 - **Infected vs Uninfected** (gating)
 - **Species**: Falciparum, Malariae, Ovale, Vivax (plus an internal Uninfected class)
